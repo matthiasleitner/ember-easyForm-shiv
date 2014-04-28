@@ -1,0 +1,9 @@
+{
+  "name": "ember-easyForm-shim",
+  "description": "Shim repository for dockyard/ember-easyForm.",
+  "version": "1.0.0.beta.1",
+  "keywords": [
+    "ember"
+  ],
+  "homepage": "https://github.com/dockyard/ember-easyForm"
+}
