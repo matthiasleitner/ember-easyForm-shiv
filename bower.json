@@ -3,7 +3,8 @@
   "description": "Shim repository for dockyard/ember-easyForm.",
   "version": "1.0.0-beta.1",
   "keywords": [
-    "ember"
+    "ember",
+    "form"
   ],
   "homepage": "https://github.com/dockyard/ember-easyForm"
 }
